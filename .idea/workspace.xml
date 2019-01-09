@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a1ef81b-64c1-44ad-91f5-1e29a8add5a8" name="Default Changelist" comment="bookManager by HanLinChen" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/updateUser.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="124" column="22" lean-forward="true" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/aop/ServiceAop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/config/MyWebMvcConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="23" column="67" lean-forward="true" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/interceptor/LoginInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/interceptor/FileTypeInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/interceptor/AdminInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/updateBook.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="149" column="6" lean-forward="true" selection-start-line="149" selection-start-column="6" selection-end-line="149" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toadd</find>
+      <find>tode</find>
+      <find>toDeleteBook</find>
+      <find>restoreBook</find>
+      <find>restore</find>
+      <find>redire</find>
+      <find>redi</find>
+      <find>deleteFinal</find>
+      <find>toDeleteFinal</find>
+      <find>toUpdateBook</find>
+      <find>delete</find>
+      <find>to</find>
+      <find>toupda</find>
+      <find>addUser</find>
+      <find>addu</find>
+      <find>updateboo</find>
+      <find>select</find>
+      <find>selec</find>
+      <find>doregi</find>
+      <find>icon7</find>
+      <find>icon3</find>
+      <find>icon</find>
+      <find>icon5</find>
+      <find>open</find>
+      <find>toupd</find>
+      <find>toupdate</find>
+      <find>up</find>
+      <find>updatebook</find>
+      <find>deletebook</find>
+      <find>update</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/chl/bookmanager/BookmanagerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/book.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/common/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/error/maxUpload.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/interceptor/FileTypeInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/config/MyWebMvcConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/searchBook.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/admin.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/service/ReaderInfoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/domain/ReaderInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/service/impl/ReaderInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/domain/BookRankVO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/mapper/BookBorrowMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/service/BookBorrowService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mappers/BookBorrowMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/service/impl/BookBorrowServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/mapper/BookPredeterMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mappers/BookPredeterMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/addUser.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/left.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/show.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/rank.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/myFavourite.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/myBorrow.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/myPredeter.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/css/thems.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/css/user_gl.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/css/common.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/borrowAgain.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/deleteUser.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/rebuild.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/report.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/returnBook.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/returnCash.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/support.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/toBorrow.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/deleteBook.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/allUser.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/open.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/personal.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/top.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/addBook.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/updateBook.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/deleteFinal.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/restore.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/allBook.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/controller/BookController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chl/bookmanager/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/updateUser.ftl" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookmanager" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bookmanager" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="37" />
+    <option name="y" value="8" />
+    <option name="width" value="1346" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mappers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-manager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chl" type="462c0819:PsiDirectoryNode" />
+              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547011722098" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\j2ee-chl\book-manager\src\main\resources\static\img" />
+      <recent name="E:\j2ee-chl\book-manager\src\main\resources\static\js" />
+      <recent name="E:\j2ee-chl\book-manager\src\main\resources\static\img\_notes" />
+      <recent name="E:\j2ee-chl\book-manager\src\main\resources\static\plugins" />
+      <recent name="E:\j2ee-chl\book-manager\src\main\resources\static\css" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chl.bookmanager.mapper" />
+      <recent name="com.chl.bookmanager.domain" />
+      <recent name="com.chl.bookmanager.config" />
+      <recent name="com.chl.bookmanager.error" />
+      <recent name="com.chl.bookmanager.interceptor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\j2ee-chl\book-manager\src\main\resources\templates\admin" />
+      <recent name="E:\j2ee-chl\book-manager\src\main\resources\templates" />
+      <recent name="E:\j2ee-chl\book-manager\src\main\resources\build\static" />
+      <recent name="E:\j2ee-chl\book-manager\src\main\resources" />
+      <recent name="E:\j2ee-chl\book-manager\src\main\resources\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BookmanagerApplication">
+    <configuration name="BookmanagerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chl.bookmanager.BookmanagerApplication" />
+      <module name="book-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chl.bookmanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookmanagerApplicationTests.Borrow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chl.bookmanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chl.bookmanager" />
+      <option name="MAIN_CLASS_NAME" value="com.chl.bookmanager.BookmanagerApplicationTests" />
+      <option name="METHOD_NAME" value="Borrow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookmanagerApplicationTests.getDifferent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chl.bookmanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chl.bookmanager" />
+      <option name="MAIN_CLASS_NAME" value="com.chl.bookmanager.BookmanagerApplicationTests" />
+      <option name="METHOD_NAME" value="getDifferent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookmanagerApplicationTests.getDifferent2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chl.bookmanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chl.bookmanager" />
+      <option name="MAIN_CLASS_NAME" value="com.chl.bookmanager.BookmanagerApplicationTests" />
+      <option name="METHOD_NAME" value="getDifferent2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookmanagerApplicationTests.getMD5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chl.bookmanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chl.bookmanager" />
+      <option name="MAIN_CLASS_NAME" value="com.chl.bookmanager.BookmanagerApplicationTests" />
+      <option name="METHOD_NAME" value="getMD5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookmanagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="book-manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chl.bookmanager.BookmanagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookmanagerApplication" />
+        <item itemvalue="JUnit.BookmanagerApplicationTests.getDifferent2" />
+        <item itemvalue="JUnit.BookmanagerApplicationTests.getMD5" />
+        <item itemvalue="JUnit.BookmanagerApplicationTests.Borrow" />
+        <item itemvalue="JUnit.BookmanagerApplicationTests.getDifferent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a1ef81b-64c1-44ad-91f5-1e29a8add5a8" name="Default Changelist" comment="" />
+      <created>1545383545995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545383545995</updated>
+      <workItem from="1545383555005" duration="263000" />
+      <workItem from="1545383846945" duration="668000" />
+      <workItem from="1545609971027" duration="56000" />
+      <workItem from="1545610313100" duration="26000" />
+      <workItem from="1545611922515" duration="1760000" />
+      <workItem from="1545629664207" duration="3265000" />
+      <workItem from="1545634559133" duration="3876000" />
+      <workItem from="1545643181768" duration="9903000" />
+      <workItem from="1545696509122" duration="9378000" />
+      <workItem from="1545710715563" duration="20596000" />
+      <workItem from="1545782812545" duration="10308000" />
+      <workItem from="1545798101889" duration="2331000" />
+      <workItem from="1545804585539" duration="4094000" />
+      <workItem from="1545875272823" duration="5617000" />
+      <workItem from="1545883478681" duration="4126000" />
+      <workItem from="1545890696874" duration="9218000" />
+      <workItem from="1545901918337" duration="500000" />
+      <workItem from="1545903449712" duration="9288000" />
+      <workItem from="1545955999747" duration="10739000" />
+      <workItem from="1545970121021" duration="26185000" />
+      <workItem from="1545997663438" duration="10012000" />
+      <workItem from="1546043825525" duration="10436000" />
+      <workItem from="1546056974043" duration="27803000" />
+      <workItem from="1546095256908" duration="1788000" />
+      <workItem from="1546128552266" duration="25858000" />
+      <workItem from="1546230719016" duration="21897000" />
+      <workItem from="1546306766840" duration="11885000" />
+      <workItem from="1546328814102" duration="21022000" />
+      <workItem from="1546388007841" duration="7521000" />
+      <workItem from="1546401354393" duration="6001000" />
+      <workItem from="1546409170374" duration="10252000" />
+      <workItem from="1546423177117" duration="15435000" />
+      <workItem from="1546474053981" duration="11460000" />
+      <workItem from="1546487945557" duration="36609000" />
+      <workItem from="1546560790125" duration="11363000" />
+      <workItem from="1546575131368" duration="3430000" />
+      <workItem from="1546581964213" duration="6210000" />
+      <workItem from="1546589640725" duration="21255000" />
+      <workItem from="1546646936437" duration="37996000" />
+      <workItem from="1546735387405" duration="16341000" />
+      <workItem from="1546752027924" duration="22896000" />
+      <workItem from="1546820029520" duration="10907000" />
+      <workItem from="1546833465543" duration="6367000" />
+      <workItem from="1546841423639" duration="11366000" />
+      <workItem from="1546858112236" duration="16773000" />
+      <workItem from="1546906370871" duration="9423000" />
+      <workItem from="1546927837083" duration="5227000" />
+      <workItem from="1546935661756" duration="17809000" />
+      <workItem from="1546991896630" duration="12133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BookmanagerApplicationTests_Borrow - 2019.01.04 at 16h 16m 37s.xml">
+      <configuration name="BookmanagerApplicationTests.Borrow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookmanagerApplicationTests_Borrow - 2019.01.04 at 16h 19m 56s.xml">
+      <configuration name="BookmanagerApplicationTests.Borrow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookmanagerApplicationTests_Borrow - 2019.01.04 at 16h 24m 31s.xml">
+      <configuration name="BookmanagerApplicationTests.Borrow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookmanagerApplicationTests_Borrow - 2019.01.04 at 16h 29m 38s.xml">
+      <configuration name="BookmanagerApplicationTests.Borrow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookmanagerApplicationTests_Borrow - 2019.01.04 at 16h 46m 44s.xml">
+      <configuration name="BookmanagerApplicationTests.Borrow" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookmanagerApplicationTests_getMD5 - 2019.01.04 at 19h 27m 54s.xml">
+      <configuration name="BookmanagerApplicationTests.getMD5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookmanagerApplicationTests_getMD5 - 2019.01.04 at 19h 28m 35s.xml">
+      <configuration name="BookmanagerApplicationTests.getMD5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookmanagerApplicationTests_getDifferent2 - 2019.01.05 at 18h 56m 36s.xml">
+      <configuration name="BookmanagerApplicationTests.getDifferent2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookmanagerApplicationTests_getDifferent2 - 2019.01.05 at 18h 59m 03s.xml">
+      <configuration name="BookmanagerApplicationTests.getDifferent2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookmanagerApplicationTests_getDifferent2 - 2019.01.05 at 19h 02m 07s.xml">
+      <configuration name="BookmanagerApplicationTests.getDifferent2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="559672000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.30408472" />
+      <window_info id="Structure" order="1" sideWeight="0.50230414" side_tool="true" weight="0.41906202" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32872504" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39938557" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32872504" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32872504" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3276923" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32872504" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.32872504" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bookManager by HanLinChen" />
+    <option name="LAST_COMMIT_MESSAGE" value="bookManager by HanLinChen" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/s_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/login_bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/l_bga.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/l_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/input_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/icon9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/icon8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/icon6_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/icon6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/icon5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/icon4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/icon3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/img/icon7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="82" column="30" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/ie.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/thems.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="142" column="30" selection-start-line="142" selection-start-column="30" selection-end-line="142" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/user_gl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="106" column="22" lean-forward="true" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/admin.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/borrowAgain.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/borrowManager.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/report.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/rebuild.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/returnCash.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/support.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/toBorrow.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/allUser.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/left.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="101" column="17" lean-forward="true" selection-start-line="101" selection-start-column="17" selection-end-line="101" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/open.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/personal.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/top.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="86" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/addBook.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="219" column="27" lean-forward="true" selection-start-line="219" selection-start-column="27" selection-end-line="219" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/show.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="115" column="59" selection-start-line="115" selection-start-column="59" selection-end-line="115" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/deleteUser.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-658">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/restore.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="111" column="20" lean-forward="true" selection-start-line="111" selection-start-column="20" selection-end-line="111" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/deleteFinal.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="120" column="13" lean-forward="true" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/allBook.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="57" column="49" lean-forward="true" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/controller/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="290" lean-forward="true" selection-start-line="290" selection-end-line="290" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="267" column="53" lean-forward="true" selection-start-line="267" selection-start-column="53" selection-end-line="267" selection-end-column="53" />
+          <folding>
+            <element signature="e#12799#12800#0" expanded="true" />
+            <element signature="e#12841#12842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/deleteBook.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-767">
+          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/returnBook.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-665">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/updateBook.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="149" column="6" lean-forward="true" selection-start-line="149" selection-start-column="6" selection-end-line="149" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/updateUser.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="124" column="22" lean-forward="true" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/interceptor/FileTypeInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/interceptor/AdminInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/config/MyWebMvcConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="23" column="67" lean-forward="true" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/aop/ServiceAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (book-manager)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>book-manager</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

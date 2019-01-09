@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!--你接口的包名是com.abc.dao,接口名是NameMapper.java，那么你的mapper.xml的namespace应该是com.abc.dao.NameMapper-->
+<mapper namespace="com.chl.bookmanager.mapper.FavouriteMapper" >
+    <!-- List<BookInfo> findFavourite(Integer uid);-->
+    <select id="findFavourite" resultType="com.chl.bookmanager.domain.BookInfo">
+        select t_favourite.book_id,book_name,author,publish,book_image
+        from t_favourite,t_book
+        where t_favourite.book_id=t_book.book_id and uid=#{uid}
+    </select>
+</mapper>

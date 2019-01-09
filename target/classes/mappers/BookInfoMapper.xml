@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!--你接口的包名是com.abc.dao,接口名是NameMapper.java，那么你的mapper.xml的namespace应该是com.abc.dao.NameMapper-->
+<mapper namespace="com.chl.bookmanager.mapper.BookInfoMapper" >
+
+    <!--
+	 void updateBorrowOut(Integer bookId);
+	 -->
+    <update id="updateBorrowOut">
+        UPDATE t_book SET borrow_num=borrow_num+1,rest_num=rest_num-1
+        WHERE book_id=#{bookId}
+    </update>
+</mapper>

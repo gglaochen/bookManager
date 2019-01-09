@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!--你接口的包名是com.abc.dao,接口名是NameMapper.java，那么你的mapper.xml的namespace应该是com.abc.dao.NameMapper-->
+<mapper namespace="com.chl.bookmanager.mapper.BookBorrowMapper" >
+
+    <!--    Integer selectBorrowCount(Integer bookId, Date startDate, Date finishDate);-->
+    <select id="selectBorrowCount" resultType="java.lang.Integer">
+        SELECT COUNT(*)
+        FROM t_borrow
+        WHERE book_id= #{bookId}
+          AND borrow_date BETWEEN #{startDate} AND #{finishDate}
+        GROUP BY book_id
+    </select>
+
+    <!--
+	List<BookInfo> getRank(
+	    Date startDate,Date finalDate);
+	 -->
+    <select id="getRank" resultType="com.chl.bookmanager.domain.BookInfo">
+        SELECT * FROM t_book
+        ORDER BY (
+                     SELECT COUNT(*)
+                     FROM t_borrow
+                     WHERE t_borrow.book_id=t_book.book_id
+                       AND borrow_date BETWEEN #{startDate} AND #{finalDate}
+                     GROUP BY book_id
+                 ) DESC
+        LIMIT 10
+    </select>
+    <!--List<BookBorrowVO> selectBorrowVO(Integer uid);-->
+    <select id="selectBorrowVO" resultType="com.chl.bookmanager.domain.BookBorrowVO">
+        SELECT book_name,t_borrow.book_id,t_borrow.uid,ISBN,borrow_date,return_date,is_renew,fine,is_paid,is_lost,
+               datediff(DATE_ADD(borrow_date,INTERVAL (1+is_renew)*limit_day DAY),curdate())AS time_difference
+        FROM t_borrow,t_book,user_type,t_reader
+        WHERE t_borrow.book_id=t_book.book_id AND t_borrow.uid=t_reader.uid
+          AND t_reader.type_id=user_type.type_id AND t_borrow.uid=#{uid}
+    </select>
+    <!--Integer AllowedBorrowAgain(Integer userId, Integer bookId);-->
+    <select id="AllowedBorrowAgain" resultType="java.lang.Integer">
+        SELECT datediff(DATE_ADD(borrow_date,INTERVAL limit_day DAY),curdate())
+                   AS time_difference
+        FROM t_borrow,user_type,t_reader
+        WHERE book_id = #{bookId} AND t_borrow.uid=#{userId} AND t_borrow.uid=t_reader.uid AND t_reader.type_id=user_type.type_id
+        AND return_date IS NULL
+  </select>
+</mapper>

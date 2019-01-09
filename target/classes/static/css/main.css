@@ -1,0 +1,61 @@
+#shortcut {
+    background: url(../img/abc.png);
+    height: 31px;
+    width: 100%;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-size: cover;
+    background-image:url(../img/background.png);
+    width:100%;
+    height:100%;
+    font-size: 85%;
+    color: #222;
+    font-family: microsoft yahei,Helvetica,Arial,"宋体",sans-serif;
+}
+#shortcut .collect {
+    float: left;
+    line-height: 30px;
+    padding-left: 15px;
+    position: relative;
+}
+span {
+    color: #666;
+}
+#shortcut ul {
+    background: url(../img/abc.png);
+    height: 30px;
+    position: relative;
+    float: right;
+    width: 350px;
+    text-align: right;
+}
+ul {
+    list-style: none;
+}
+#shortcut .bd {
+    color: #fff;
+    font-weight: bold;
+}
+#shortcut .bd {
+    color: #fff;
+    font-weight: bold;
+}
+#shortcut li {
+    color: #ACACAC;
+    float: left;
+    height: 26px;
+    line-height: 26px;
+    padding: 2px 8px 3px;
+}
+#shortcut .link-regist {
+    color: #F60;
+}
+a {
+    color: #666;
+    text-decoration: none;
+    cursor: pointer;
+}

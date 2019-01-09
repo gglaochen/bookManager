@@ -1,0 +1,34 @@
+spring:
+  datasource:                   #配置数据源
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///book_manager?useSSL=true
+    username: root
+    password: 123
+    type: com.alibaba.druid.pool.DruidDataSource
+  aop:                          #配置aop
+    auto: true
+    proxy-target-class: false   #默认为false,根据有无接口来选择使用的代理方式，如果设置为true代表强制使用cglib代理，否则接口用jdk动态代理
+  mvc:                          #视图解析器
+    view:
+      suffix: .ftl
+  servlet:
+    multipart:
+      max-request-size: 30Mb
+      max-file-size: 10Mb
+mybatis:
+  typeAliasesPackage: com.chl.bookmanager.domain
+  mapper-locations: classpath:mappers/*Mapper.xml
+  configuration:
+    map-underscore-to-camel-case: true    #启用驼峰命名法
+mapper:
+  identity: MYSQL
+  not-empty:  true
+  mappers:
+  - tk.mybatis.mapper.common.Mapper
+  - tk.mybatis.mapper.common.MySqlMapper
+logging:              #输出sql日志到控制台
+  level:
+    com.chl.bookmanager.mapper: debug
+#  file: E:/java陈翰林/logs/my.log
+md5:
+  salt: \u4F60\u559C\u6B22\u7F16\u7A0B\u5417
