@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1ef81b-64c1-44ad-91f5-1e29a8add5a8" name="Default Changelist" comment="bookManager by HanLinChen" />
+    <list default="true" id="6a1ef81b-64c1-44ad-91f5-1e29a8add5a8" name="Default Changelist" comment="bookManager by HanLinChen">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -521,7 +523,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547011722098" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547013769493" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -720,7 +722,7 @@
       <workItem from="1546906370871" duration="9423000" />
       <workItem from="1546927837083" duration="5227000" />
       <workItem from="1546935661756" duration="17809000" />
-      <workItem from="1546991896630" duration="12133000" />
+      <workItem from="1546991896630" duration="12732000" />
     </task>
     <servers />
   </component>
@@ -757,7 +759,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="559672000" />
+    <option name="totallyTimeSpent" value="560271000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -769,7 +771,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.30408472" />
       <window_info id="Structure" order="1" sideWeight="0.50230414" side_tool="true" weight="0.41906202" />
