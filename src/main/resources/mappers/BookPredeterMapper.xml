@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<!--你接口的包名是com.abc.dao,接口名是NameMapper.java，那么你的mapper.xml的namespace应该是com.abc.dao.NameMapper-->
+<mapper namespace="com.chl.bookmanager.mapper.BookPredeterMapper" >
+
+    <!--
+	  Integer getMaxOrderNo(Integer bookId);
+	 -->
+    <select id="getMaxOrderNo" resultType="java.lang.Integer">
+        SELECT MAX(order_no) FROM t_predeter
+        WHERE book_id=#{bookId}
+    </select>
+    <!--Date findRecentReturn(Integer bookId,Integer orderNo);-->
+    <select id="findRecentReturn" resultType="java.util.Date">
+        SELECT DATE_ADD(borrow_date,INTERVAL (1+is_renew)*limit_day DAY) FROM t_borrow,t_reader,user_type
+        WHERE	t_borrow.uid=t_reader.uid AND t_reader.type_id=user_type.type_id
+        AND return_date IS NULL AND book_id=#{bookId}
+        ORDER BY DATE_ADD(borrow_date,INTERVAL (1+is_renew)*limit_day DAY)
+        LIMIT #{orderNo},1
+    </select>
+    <!--List<BookPredeter> selectByOrder(Integer bookId, int num);-->
+    <select id="selectByOrder">
+        SELECT * FROM t_predeter
+        WHERE book_id=#{bookId} AND order_no!=-1
+        ORDER BY order_no
+        LIMIT #{num}
+    </select>
+</mapper>

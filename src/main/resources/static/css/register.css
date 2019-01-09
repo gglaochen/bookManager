@@ -1,0 +1,16 @@
+@charset "utf-8";
+.msg-default {
+    background-color: #999;
+}
+.msg-error {
+    background-color: #d00;
+}
+.msg-success {
+    background-color: #0d0;
+}
+.hidden {
+    display: none;
+}
+.form-group {
+    margin-bottom: 20px;
+}

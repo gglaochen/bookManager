@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/common/GlobalExceptionHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/controller/PageController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chl/bookmanager/exception/BizException.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/error/4xx.ftl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/error/5xx.ftl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/templates/error/biz.ftl" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
